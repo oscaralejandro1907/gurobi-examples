@@ -10,7 +10,7 @@ Note: The model needs to be compared an validated in detail with the C++ version
 
 Here is an outline for this project to solve a capacitated vehicle routing problem
 
-1. Define the problem
+#### 1. Define the problem
 
 This CVRP involves finding the most efficient routes for a vehicle fleet to service a set of customers.
 
@@ -26,6 +26,6 @@ There is an assoicated trave cost between each pair of nodes.
 
 It is assumed vehicles at the depot are fully loaded and start serving clients according to their demand in each visit for their routes.
 
-2. Gather data
+#### 2. Gather data
 
 Data on the location of customers, the demand at each location, and the capacity of each vehicle needed will be collected from benchmark
